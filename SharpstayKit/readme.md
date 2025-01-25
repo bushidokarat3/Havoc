@@ -21,6 +21,12 @@ A Closer look the menu
 
 
 
+
+
+
+
+
+
 Credits
 WMI Event Subscription - WQL Query from Empire Project and Matt Graeber's research
 Scheduled Task COM Handler Hijack - idea from enigma0x3's research
