@@ -4,6 +4,7 @@ Scenario: In the demo, I'm establishing system-level persistence by creating a s
 
 Demo:
 A Closer look the menu
+
 ![SharpStay](https://github.com/bushidokarat3/Havoc/blob/main/SharpstayKit/SharpStay_menu.gif?raw=true)
 
 
