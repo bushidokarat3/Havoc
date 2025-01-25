@@ -1,6 +1,6 @@
 Notice: Code Usage Restrictions
 
-This code is locked down and cannot be used, modified, or redistributed without explicit permission from the author. If you wish to use this code for any purpose, please contact me directly to request permission.
+This code is locked down and cannot be used, modified, or redistributed without explicit permission from the author. If you wish to use this code for any purpose, please contact me directly to request permission via discord "stinkmean3r".
 
 Educational Use Only
 This code is intended solely for educational purposes. The author makes no guarantees about the functionality, performance, or suitability of the code for any specific use case. By using this code, you agree that you are solely responsible for any outcomes, damages, or issues that may arise from its use.
@@ -11,6 +11,9 @@ The author shall not be held liable for any direct, indirect, incidental, specia
 Unauthorized Use
 Unauthorized use, modification, or distribution of this code is strictly prohibited and may result in legal consequences.
 
+Demo:
 
-Ldap Master Demo:
-![LdapMaster](https://github.com/bushidokarat3/Havoc/blob/main/LdapMaster/LdapMasterRemotev2.mp4?raw=true)
+![LDAPMaster Remote 1](https://github.com/bushidokarat3/Havoc/blob/main/LdapMaster/LdapMasterPart1.gif?raw=true)
+![LDAPMaster Remote 2](https://github.com/bushidokarat3/Havoc/blob/main/LdapMaster/LdapMasterPart2.gif?raw=true)
+![LDAPMaster Remote 3](https://github.com/bushidokarat3/Havoc/blob/main/LdapMaster/LdapMasterPart3.gif?raw=true)
+
