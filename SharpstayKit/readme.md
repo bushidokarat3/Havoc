@@ -10,7 +10,8 @@ A Closer look the menu
 Scenario: 
 
 In the demo, I'm establishing system-level persistence by creating a service grant that the target user has the "Log on as service"
-![SharpStay1](https://kevonsecurityllc.com/wp-content/uploads/2025/01/SharpkitFinal.gif)
+
+![SharpStay_S](https://kevonsecurityllc.com/wp-content/uploads/2025/01/SharpkitFinal.gif)
 
 
 
