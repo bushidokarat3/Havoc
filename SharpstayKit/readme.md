@@ -7,8 +7,11 @@ A Closer look the menu
 
 ![SharpStay](https://github.com/bushidokarat3/Havoc/blob/main/SharpstayKit/SharpStay_menu.gif?raw=true)
 
-Scenario: Coming soon
+Scenario: 
 
+In the demo, I'm establishing system-level persistence by creating a service grant that the target user has the "Log on as service"
+
+![SharpStay1](https://kevonsecurityllc.com/wp-content/uploads/2025/01/SharpkitFinal.gif)
 
 
 
